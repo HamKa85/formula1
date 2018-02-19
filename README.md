@@ -1,24 +1,5 @@
-# README
+# Formula stylayy
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Pas si stylaayy mais oqp today....
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://frozen-river-85243.herokuapp.com/
