@@ -22,11 +22,16 @@
     text-align: center;
     }
 
+    a, p {
+        font-family: "Times New Roman", Times, serif;
+    }
+
  .field, .actions {
      background-color: #ffffff;
      padding: 12px;
      margin-right: 38%;
      margin-left: 38%;
+     position:relative;
  }
 
  .form
@@ -70,3 +75,10 @@
  }
 
  .button4 {background-color: #e7e7e7; color: black;}
+
+ div.relative {
+     position: relative;
+     width: 400px;
+     height: 200px;
+     border: 3px solid #73AD21;
+ }
